@@ -6,3 +6,4 @@ function changeColour() {
     colors.push(color);
     button.style.backgroundColor = color;
 };
+}
